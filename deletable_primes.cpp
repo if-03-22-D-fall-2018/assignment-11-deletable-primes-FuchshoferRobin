@@ -10,6 +10,8 @@
  * Implementation of deletable_primes.h.
  * ----------------------------------------------------------
  */
+ #include "deletable_primes.h"
+ #include "math.h"
 
  unsigned long remove_digit(int index, unsigned long n)
  {
