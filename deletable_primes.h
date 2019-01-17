@@ -15,5 +15,7 @@
 
 unsigned long remove_digit(int index, unsigned long n);
 int get_ways(unsigned long p);
+int count_digits(unsigned long num);
+bool is_prime(unsigned long n);
 
 #endif
